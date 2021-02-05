@@ -17,3 +17,9 @@ It's a simple, minimal designed chat to practice some notions about server & cli
 
 Download or clone this repo, install dependencies and launch the app with `npm run devStart`. This is for listening any changes on the code, but you can use `node server.js`instead.
 
+### Dependencies:
+
+- express ^4.17.1
+- socket.io ^3.0.4
+- nodemon 2.0.6 (optional)
+
